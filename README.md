@@ -1,9 +1,7 @@
-# Hi, I'm Ninell
+# Hi, I'm Mikolaj
 
-I'm a first-year PhD student at the Centre for Philosophy of AI at the University of Copenhagen supervised by [Anders Søgaard](https://anderssoegaard.github.io/). I'm trying to find out how to use language models best to learn about human decision-making, language use, or cooperation! For this, I like to draw inspiration from related fields such as (currently) explainability, neuro-symbolic computing, and bio-inspired AI.
+I'm a cybersecurity specilist working at BLIK. Besides that I'm working to reduce harms from advanced artifical intelligence by conducting research at PRISM evals.
 
-Other than that, I like live music, running, & maps.
+Otherwise, I'm interested in math, urban exploration and psychodelics.
 
 Please reach out if you want to collaborate, discuss, or go to a gig together!
-
-And here's a picture of my face:
